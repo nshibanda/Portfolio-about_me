@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Noel</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+sans-serif" rel="stylesheet">
+  </head>
+  <body class="body">
+    <div class="wrapper">
+      
+      <div class="left">
+        <img class="profile-picture" src="images/img.png" width="200"/>
+        <h1 class="name">Noel Sakase</h1>
+        <h4 class="subtitle">About Me</h4>
+        <p class="name">
+          I have a passion for technology, hence my background in the telecommunications industry. I have a bachelor's degree in Electrical & Communications Engineering with a vast experience in the telecom industry having worked for 3 telcos and the Ministry of ICT.
+        <p class="name">
+          I decided to take up the programming class to enhance my knowledge of technology and also challenge my mind.  
+        </p>
+      </div>
+      
+      <div class="right">
+        <p class="name">
+          My current hobbies are reading especially the Bible, skating, and running. </p>
+        </p>
+        <p class="name">
+          Connect with me on LinkedIn!
+        </p>
+        <ul>
+          <li><a href="https://www.linkedin.com/in/noel-sakase-154a3576?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn</a></li>
+        </ul>
+      </div>
+      
+    </div>
+  </body></html>
