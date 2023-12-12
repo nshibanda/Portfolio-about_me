@@ -9,6 +9,6 @@
 - Git and Github
 - VS code
 ## Live link
-https://bkkimutai.github.io/weekoneip
+https://github.com/nshibanda/Portfolio-about_me
 ## License
-(c) 2023 bkkimutai
+(c) 2023 nshibanda
